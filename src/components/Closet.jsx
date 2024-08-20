@@ -24,4 +24,3 @@ const Closet = () => {
 };
 
 export default Closet;
-git 
